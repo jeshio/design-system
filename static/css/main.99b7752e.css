@@ -1,0 +1,93 @@
+@font-face {
+  src: url('https://cdn.dasreda.ru/fonts-static/fonts/SBSansDisplay/SBSansDisplay-Regular.eot')
+  format('embedded-opentype'),
+  url('https://cdn.dasreda.ru/fonts-static/fonts/SBSansDisplay/SBSansDisplay-Regular.woff2') format('woff2'),
+  url('https://cdn.dasreda.ru/fonts-static/fonts/SBSansDisplay/SBSansDisplay-Regular.woff') format('woff'),
+  url('https://cdn.dasreda.ru/fonts-static/fonts/SBSansDisplay/SBSansDisplay-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  font-family: SB Sans Display;
+}
+@font-face {
+  src: url('https://cdn.dasreda.ru/fonts-static/fonts/SBSansDisplay/SBSansDisplay-Regular.eot')
+  format('embedded-opentype'),
+  url('https://cdn.dasreda.ru/fonts-static/fonts/SBSansDisplay/SBSansDisplay-Regular.woff2') format('woff2'),
+  url('https://cdn.dasreda.ru/fonts-static/fonts/SBSansDisplay/SBSansDisplay-Regular.woff') format('woff'),
+  url('https://cdn.dasreda.ru/fonts-static/fonts/SBSansDisplay/SBSansDisplay-Regular.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  font-family: SB Sans Display;
+}
+@font-face {
+  src: url('https://cdn.dasreda.ru/fonts-static/fonts/SBSansUI/SBSansUI-Regular.eot')
+        format('embedded-opentype'),
+      url('https://cdn.dasreda.ru/fonts-static/fonts/SBSansUI/SBSansUI-Regular.woff2') format('woff2'),
+      url('https://cdn.dasreda.ru/fonts-static/fonts/SBSansUI/SBSansUI-Regular.woff') format('woff'),
+      url('https://cdn.dasreda.ru/fonts-static/fonts/SBSansUI/SBSansUI-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  font-family: SB Sans Interface;
+}
+@font-face {
+  src: url('https://cdn.dasreda.ru/fonts-static/fonts/SBSansUI/SBSansUI-Semibold.eot')
+        format('embedded-opentype'),
+      url('https://cdn.dasreda.ru/fonts-static/fonts/SBSansUI/SBSansUI-Semibold.woff2') format('woff2'),
+      url('https://cdn.dasreda.ru/fonts-static/fonts/SBSansUI/SBSansUI-Semibold.woff') format('woff'),
+      url('https://cdn.dasreda.ru/fonts-static/fonts/SBSansUI/SBSansUI-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  font-family: SB Sans Interface;
+}
+button {
+  outline: none;
+}
+* {
+  box-sizing: border-box;
+}
+.zozg0c0 {
+  --zozg0c1: #fff;
+  --zozg0c2: #000;
+  --zozg0c3: #EEFCF5;
+  --zozg0c4: #E5FAF0;
+  --zozg0c5: #B9F4D8;
+  --zozg0c6: #84EBBB;
+  --zozg0c7: #47D793;
+  --zozg0c8: #21BA72;
+  --zozg0c9: #209F6D;
+  --zozg0ca: #1F8468;
+  --zozg0cb: #116951;
+  --zozg0cc: #084937;
+  --zozg0cd: #F9F9FC;
+  --zozg0ce: #F6F6FB;
+  --zozg0cf: #E1E1EE;
+  --zozg0cg: #C5C7DA;
+  --zozg0ch: #9DA0B6;
+  --zozg0ci: #71738D;
+  --zozg0cj: #585A71;
+  --zozg0ck: #3A3C52;
+  --zozg0cl: #2D3045;
+  --zozg0cm: #222539;
+  --zozg0cn: rgba(255, 255, 255, 0.1);
+  --zozg0co: rgba(255, 255, 255, 0.2);
+  --zozg0cp: rgba(255, 255, 255, 0.4);
+  --zozg0cq: rgba(34, 37, 57, 0.5);
+  --zozg0cr: rgba(34, 37, 57, 0.8);
+  --zozg0cs: 400 20px/28px SB Sans Interface, sans-serif;
+  --zozg0ct: 600 20px/28px SB Sans Interface, sans-serif;
+  --zozg0cu: 400 18px/24px SB Sans Interface, sans-serif;
+  --zozg0cv: 600 18px/24px SB Sans Interface, sans-serif;
+  --zozg0cw: 400 16px/24px SB Sans Interface, sans-serif;
+  --zozg0cx: 600 16px/24px SB Sans Interface, sans-serif;
+  --zozg0cy: 400 14px/20px SB Sans Interface, sans-serif;
+  --zozg0cz: 600 14px/20px SB Sans Interface, sans-serif;
+  --zozg0c10: 400 12px/16px SB Sans Interface, sans-serif;
+  --zozg0c11: 600 12px/16px SB Sans Interface, sans-serif;
+  --zozg0c12: 4px;
+  --zozg0c13: 8px;
+}
+
+/*# sourceMappingURL=main.99b7752e.css.map*/
